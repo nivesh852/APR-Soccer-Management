@@ -1,0 +1,14 @@
+.headerMenu {
+    /* cursor: pointer; */
+    color: #EDEDED;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    text-decoration: none;
+}
+
+.headerMenu:hover {
+    cursor: pointer;
+    color: #FFFFFF
+}
