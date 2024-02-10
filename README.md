@@ -72,8 +72,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### Steps we followed for backend:
 ## To install a virtual environment
 `pip install virtualenv`
+
 `pip install requests`
+
 `virtualenv env_soccer`
+
 `cd env_soccer`
 
 ## To activate the virtual environment
