@@ -68,3 +68,18 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Steps we followed for backend:
+## To install a virtual environment
+`pip install virtualenv`
+`pip install requests`
+`virtualenv env_soccer`
+`cd env_soccer`
+
+## To activate the virtual environment
+# mac 
+`/backend $source env_soccer/bin/activate`
+# windows 
+`~activate`
+# To run the app.py file
+`python app.py`
